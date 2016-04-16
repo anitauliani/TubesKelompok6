@@ -13,7 +13,6 @@ Deskripsi fungsionalitas per menu pengguna terdiri dari :
 •	Menambahkan mahasiswa ke dalam kelas
 •	Menghapus mahasiswa dari kelas
 •	Menambahkan tugas individu
-•	Menambahkan tugas kelompok
 •	Menambahkan kelompok
 •	Memilih ketua kelompok
 •	Menghapus kelompok
@@ -22,6 +21,5 @@ Deskripsi fungsionalitas per menu pengguna terdiri dari :
 •	Sign up
 •	Melihat profil mahasiswa
 •	Mengerjakan tugas individu
-•	Mengerjakan tugas kelompok
 •	Gabung ke kelompok
-•	Memilih ketua kelompok
+
